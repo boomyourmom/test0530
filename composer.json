@@ -1,0 +1,11 @@
+{
+    "name": "shaojunjie/test0530",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shaojunjie"
+        }
+    ],
+    "require": {}
+}
